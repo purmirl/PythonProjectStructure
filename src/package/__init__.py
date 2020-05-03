@@ -1,6 +1,6 @@
 """
  Copyright 2020 PeTrA. All rights reserved.
- . Python Project Strucure Repository;
+ . Python Project Structure Repository;
 """
 # __init__.py;
 
