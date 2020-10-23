@@ -1,7 +1,9 @@
-# PythonProjectStructure
-Python Project Structure Repository. 2020 PeTrA.   
-Copyright 2020 PeTrA. All rights reserved.
-### The Basic Python Project Structure
+PythonProjectStructure
+===================================================================================================================
+_Python Project Structure Repository. 2020 PeTrA._      
+_Copyright 2020 PeTrA. All rights reserved._   
+## The Basic Python Project Structure
 ------------------------------------------------------------------------
-* Structure Map
+* _Structure Map_   
+
 
