@@ -9,12 +9,13 @@ _Copyright 2020 PeTrA. All rights reserved._
 * _docs_   
 This directory is documents directory if the project.   
 * _rsc_   
-This directory is 
+This directory is dictionary or meta data.   
 * _src_   
+This directory is main source code.   
 * _package_   
+This directory is the package of the main code.   
 * _tests_   
-## __init__.py   
-
+This is test directory.   
 
 
 
