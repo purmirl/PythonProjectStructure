@@ -1,6 +1,6 @@
 The Python Project Structure
 ===================================================================================================================
-_PythonProjectStructure Repository. 2020 ~ PeTrA._      
+_PythonProjectStructure Repository._      
 _Copyright 2020 ~ PeTrA. All rights reserved._   
 ## The Basic Python Project Structure   
 This project is the basic python project structure for beginning python programming. Python is very useful computer language. So I think the needs of python programming structure for starter. Let's study with me.   
@@ -17,6 +17,7 @@ This directory is main source code.
 This directory is the package of the main code.   
 * _tests_   
 This is test directory.   
-
+## What is the "\_\_init\_\_.py" ?   
+The _\_\_init\_\_.py_ is to declare that the directory is a package. In source, it will find the _\_\_init\_\_.py_ file, and know about program code's run area.
 
 
