@@ -1,4 +1,4 @@
-The Python Strcture Project
+The Python Project Structure
 ===================================================================================================================
 _PythonProjectStructure Repository. 2020 ~ PeTrA._      
 _Copyright 2020 ~ PeTrA. All rights reserved._   
