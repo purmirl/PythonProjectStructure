@@ -17,7 +17,7 @@ This directory is main source code.
 This directory is the package of the main code.   
 * _tests_   
 This is test directory.   
-### Reference) What is the "\_\_init\_\_.py" ?   
+### # Reference, What is the "\_\_init\_\_.py" ?   
 The _\_\_init\_\_.py_ is to declare that the directory is a package. In source, it will find the _\_\_init\_\_.py_ file, and know about program code's run area.
 
 
