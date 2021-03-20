@@ -2,11 +2,11 @@ The Python Project Structure
 ===================================================================================================================
 _PythonProjectStructure Repository._      
 _Copyright 2020 ~ PeTrA. All rights reserved._   
-## 01. Introduce  
+## Introduce  
 This project is the basic python project structure for beginning python programming. Python is very useful computer language. So I think the needs of python programming structure for starter. Let's study with me.   
 * _Structure Map_   
 ![01  map](https://user-images.githubusercontent.com/33143731/111482413-3978ad00-8777-11eb-851a-6f3979100cf6.png)   
-## 02. Description   
+## Description   
 * _docs(documents)_   
 This directory is documents directory if the project.   
 * _rsc(resource)_   
